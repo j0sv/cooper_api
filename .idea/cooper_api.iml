@@ -27,6 +27,7 @@
     <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.0.5, RVM: ruby-2.2.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, RVM: ruby-2.2.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.18, RVM: ruby-2.2.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="hashie (v3.5.6, RVM: ruby-2.2.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="listen (v3.0.8, RVM: ruby-2.2.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="method_source (v0.8.2, RVM: ruby-2.2.3) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.0.3, RVM: ruby-2.2.3) [gem]" level="application" />
